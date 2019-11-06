@@ -18,11 +18,7 @@
     "com.unity.textmeshpro": "2.0.0",
     "com.unity.timeline": "1.0.0",
     "com.unity.xr.legacyinputhelpers": "2.0.2",
-<<<<<<< HEAD
     "com.unity.xr.oculus.android": "1.38.3",
-=======
-    "com.unity.xr.oculus.android": "1.38.4",
->>>>>>> a3557b58efe5e49ee4755e542026e4745f85ac0b
     "com.unity.xr.oculus.standalone": "1.38.3",
     "com.unity.xr.openvr.standalone": "1.0.5",
     "io.extendreality.vrtk.prefabs": "1.0.7",

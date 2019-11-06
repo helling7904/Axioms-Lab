@@ -12,13 +12,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-<<<<<<< HEAD
   companyName: Extend Reality Ltd
   productName: VRTK
-=======
-  companyName: Axiom_Labs
-  productName: SITD
->>>>>>> a3557b58efe5e49ee4755e542026e4745f85ac0b
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -163,18 +158,10 @@ PlayerSettings:
   resolutionScalingMode: 0
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
-<<<<<<< HEAD
   applicationIdentifier: {}
   buildNumber: {}
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 16
-=======
-  applicationIdentifier:
-    Android: com.AxiomsLab.SITD
-  buildNumber: {}
-  AndroidBundleVersionCode: 1
-  AndroidMinSdkVersion: 20
->>>>>>> a3557b58efe5e49ee4755e542026e4745f85ac0b
   AndroidTargetSdkVersion: 0
   AndroidPreferredInstallLocation: 1
   aotOptions: 
